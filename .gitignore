@@ -1,0 +1,13 @@
+# Node modules directory
+node_modules/
+node_modules 2/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
